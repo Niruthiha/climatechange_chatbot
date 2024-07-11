@@ -7,3 +7,9 @@ This Streamlit app recommends movies based on user queries using Pinecone for ve
 - **Vector Search:** Utilizes Pinecone's API for efficient vector similarity search.
 - **LLM Integration:** Uses a large language model (LLM) for generating text prompts.
 - **User Interaction:** Allows users to input queries and receive movie recommendations.
+
+movies.txt
+A sample dataset containing movie information formatted as: 
+  Title: Movie Title 1
+  Genre: Action
+  Description: This is a description of the movie.
