@@ -1,39 +1,175 @@
-title: Inception
-genre: Sci-Fi
-description: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+Title: Inception
+Genre: Action, Adventure, Sci-Fi
+Description: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
 
-title: The Dark Knight
-genre: Action
-description: When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.
+Title: The Shawshank Redemption
+Genre: Drama
+Description: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
 
-title: Forrest Gump
-genre: Drama
-description: The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.
+Title: The Godfather
+Genre: Crime, Drama
+Description: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
 
-title: The Shawshank Redemption
-genre: Drama
-description: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Title: The Dark Knight
+Genre: Action, Crime, Drama
+Description: When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.
 
-title: Pulp Fiction
-genre: Crime
-description: The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Title: Pulp Fiction
+Genre: Crime, Drama
+Description: The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
 
-title: The Matrix
-genre: Sci-Fi
-description: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Title: Schindler's List
+Genre: Biography, Drama, History
+Description: In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.
 
-title: Interstellar
-genre: Sci-Fi
-description: A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+Title: The Lord of the Rings: The Fellowship of the Ring
+Genre: Action, Adventure, Drama
+Description: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
 
-title: The Godfather
-genre: Crime
-description: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+Title: Fight Club
+Genre: Drama
+Description: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much, much more.
 
-title: Gladiator
-genre: Action
-description: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Title: Forrest Gump
+Genre: Drama, Romance
+Description: The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.
 
-title: Fight Club
-genre: Drama
-description: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.
+Title: Star Wars: Episode IV - A New Hope
+Genre: Action, Adventure, Fantasy
+Description: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+
+Title: The Matrix
+Genre: Action, Sci-Fi
+Description: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
+Title: Goodfellas
+Genre: Biography, Crime, Drama
+Description: The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+
+Title: The Silence of the Lambs
+Genre: Crime, Drama, Thriller
+Description: A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.
+
+Title: Gladiator
+Genre: Action, Adventure, Drama
+Description: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+
+Title: Saving Private Ryan
+Genre: Drama, War
+Description: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+
+Title: The Green Mile
+Genre: Crime, Drama, Fantasy
+Description: The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.
+
+Title: The Departed
+Genre: Crime, Drama, Thriller
+Description: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+
+Title: Avatar
+Genre: Action, Adventure, Fantasy
+Description: A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+
+Title: The Intouchables
+Genre: Biography, Comedy, Drama
+Description: After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.
+
+Title: The Prestige
+Genre: Drama, Mystery, Sci-Fi
+Description: After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.
+
+Title: The Pianist
+Genre: Biography, Drama, Music
+Description: A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
+
+Title: Django Unchained
+Genre: Drama, Western
+Description: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
+
+Title: The Usual Suspects
+Genre: Crime, Mystery, Thriller
+Description: A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.
+
+Title: Léon: The Professional
+Genre: Action, Crime, Drama
+Description: Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade.
+
+Title: City of God
+Genre: Crime, Drama
+Description: In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.
+
+Title: Life Is Beautiful
+Genre: Comedy, Drama, Romance
+Description: When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.
+
+Title: The Lion King
+Genre: Animation, Adventure, Drama
+Description: Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+
+Title: The Sixth Sense
+Genre: Drama, Mystery, Thriller
+Description: A boy who communicates with spirits seeks the help of a disheartened child psychologist.
+
+Title: Spirited Away
+Genre: Animation, Adventure, Family
+Description: During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
+
+Title: American History X
+Genre: Drama
+Description: A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.
+
+Title: Terminator 2: Judgment Day
+Genre: Action, Sci-Fi
+Description: A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.
+
+Title: The Shining
+Genre: Drama, Horror
+Description: A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.
+
+Title: Braveheart
+Genre: Biography, Drama, History
+Description: Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.
+
+Title: The Great Escape
+Genre: Adventure, Drama, History
+Description: Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.
+
+Title: Reservoir Dogs
+Genre: Crime, Drama, Thriller
+Description: When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.
+
+Title: Requiem for a Dream
+Genre: Drama
+Description: The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.
+
+Title: Toy Story
+Genre: Animation, Adventure, Comedy
+Description: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+
+Title: Das Boot
+Genre: Action, Drama, Thriller
+Description: The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.
+
+Title: Monty Python and the Holy Grail
+Genre: Adventure, Comedy, Fantasy
+Description: King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.
+
+Title: The Truman Show
+Genre: Comedy, Drama, Sci-Fi
+Description: An insurance salesman discovers his whole life is actually a reality TV show.
+
+Title: Jurassic Park
+Genre: Action, Adventure, Sci-Fi
+Description: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
+
+Title: Fargo
+Genre: Crime, Drama, Thriller
+Description: Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
+
+Title: Oldboy
+Genre: Action, Drama, Mystery
+Description: After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.
+
+Title: The Big Lebowski
+Genre: Comedy, Crime, Sport
+Description: Jeff "The Dude
