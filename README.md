@@ -19,3 +19,11 @@ Required Python packages listed in requirements.txt
 1. Clone the Repository
 2. Set Environment Variable: Make sure to set your OpenAI API key in your environment: export OPENAI_API_KEY="your_api_key_here"
 3. Running the Chatbot: To run the chatbot, execute the following command: streamlit run app.py
+
+## Sample Responses
+![image](https://github.com/user-attachments/assets/7ebbdfbb-0b84-4e06-8fe5-5795ee9a0ab2)
+![image](https://github.com/user-attachments/assets/52ac59b1-50e8-4799-9760-1016955f4eca)
+![image](https://github.com/user-attachments/assets/872c5dba-2681-4131-b8dd-ff8ea91463b7)
+
+
+
