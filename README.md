@@ -11,8 +11,6 @@ The Climate Change Chatbot is an interactive tool designed to provide users with
 - Streamlit: For building the web interface for user interactions.
 - OpenAI API: To generate responses using the GPT-3.5-turbo model.
 - ChromaDB: A vector database used for efficient information retrieval.
-- Getting Started
-- Prerequisites
 - Python 3.8 or higher
 - Required Python packages listed in requirements.txt
 
