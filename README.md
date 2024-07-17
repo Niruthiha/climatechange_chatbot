@@ -15,6 +15,18 @@ Prerequisites
 Python 3.8 or higher
 Required Python packages listed in requirements.txt
 
+## Data Source
+The data used for the Climate Change Chatbot is derived from the IPCC AR6 WGII Technical Summary (IPCC_AR6_WGII_TechnicalSummary.pdf). This technical summary complements and expands on the key findings of the Working Group II contribution to the Sixth Assessment Report (AR6), providing essential insights into climate change impacts and responses.
+
+## Key Highlights from the Report:
+Background: The summary integrates literature accepted for publication by September 2021 and builds on the findings of previous assessments, including the WGII contribution to the Fifth Assessment Report (AR5) and three special reports from the AR6 cycle.
+Special Reports:
+Global Warming of 1.5°C (2018): Focuses on the impacts of global warming and emission pathways.
+Climate Change and Land (2019): Addresses issues related to land degradation, food security, and greenhouse gas fluxes.
+Ocean and Cryosphere in a Changing Climate (2019): Explores the effects of climate change on ocean and cryosphere systems.
+
+The chatbot utilizes this comprehensive information to answer user queries effectively and accurately, ensuring a robust understanding of climate change topics.
+
 ## Setup
 1. Clone the Repository
 2. Set Environment Variable: Make sure to set your OpenAI API key in your environment: export OPENAI_API_KEY="your_api_key_here"
