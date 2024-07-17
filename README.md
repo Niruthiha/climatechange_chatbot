@@ -3,17 +3,18 @@
 The Climate Change Chatbot is an interactive tool designed to provide users with information about climate change using advanced natural language processing techniques. By leveraging a Retrieval-Augmented Generation (RAG) approach, this chatbot utilizes a combination of a vector database and OpenAI's language model to deliver accurate and relevant responses based on user queries.
 
 ## Features
-Natural Language Understanding: The chatbot understands user queries about climate change and retrieves relevant information from a preprocessed dataset.
-Dynamic Responses: Utilizing the GPT-3.5-turbo model, the chatbot generates context-aware responses based on the queried information.
-Easy to Use: Users can simply input their questions into a text field to receive informative answers.
-Technologies Used
-Streamlit: For building the web interface for user interactions.
-OpenAI API: To generate responses using the GPT-3.5-turbo model.
-ChromaDB: A vector database used for efficient information retrieval.
-Getting Started
-Prerequisites
-Python 3.8 or higher
-Required Python packages listed in requirements.txt
+- Natural Language Understanding: The chatbot understands user queries about climate change and retrieves relevant information from a preprocessed dataset.
+- Dynamic Responses: Utilizing the GPT-3.5-turbo model, the chatbot generates context-aware responses based on the queried information.
+- Easy to Use: Users can simply input their questions into a text field to receive informative answers.
+
+## Technologies Used
+- Streamlit: For building the web interface for user interactions.
+- OpenAI API: To generate responses using the GPT-3.5-turbo model.
+- ChromaDB: A vector database used for efficient information retrieval.
+- Getting Started
+- Prerequisites
+- Python 3.8 or higher
+- Required Python packages listed in requirements.txt
 
 ## Data Source
 The data used for the Climate Change Chatbot is derived from the IPCC AR6 WGII Technical Summary (IPCC_AR6_WGII_TechnicalSummary.pdf). This technical summary complements and expands on the key findings of the Working Group II contribution to the Sixth Assessment Report (AR6), providing essential insights into climate change impacts and responses.
