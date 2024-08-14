@@ -6,7 +6,7 @@ from pypdf import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter, SentenceTransformersTokenTextSplitter
 import chromadb
 import openai
-from openai import OpenAI
+
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # %%
@@ -82,9 +82,9 @@ def rag(query, n_results=5):
         },
         {"role": "user", "content": f"Question: {query}. \n Information: {joined_information}"}
     ]
-    openai_client = OpenAI()
+
     model = "gpt-3.5-turbo"
-    response = openai_client.chat.completions.create(
+    response = openai.ChatCompletion.create(
         model=model,
         messages=messages,
     )
