@@ -42,6 +42,16 @@ This will install all necessary libraries, including:
 - chromadb: For creating and querying the vector database.
 - pypdf: For reading PDF documents.
 
+## Fine-Tuning the Model
+The script to fine-tune the model and evaluate its performance is fine_tune_model.py.
+
+Upload Training Data
+
+Ensure your training data is in the data/ directory. The data should be in JSONL format.
+
+Fine-Tune the Model
+
+![image](https://github.com/user-attachments/assets/a866e32d-6cda-4246-b39c-f700339488a7)
 
 ## Demo
 https://youtu.be/Xx-mtNaRHeI
