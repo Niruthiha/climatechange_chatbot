@@ -1,5 +1,7 @@
-streamlit==1.20.0
-pypdf==2.5.0
-langchain==0.0.190
-chromadb==0.3.20
-openai==0.27.0
+openai
+chromadb
+numpy
+scikit-learn
+nltk
+rouge-score
+sentence-transformers
