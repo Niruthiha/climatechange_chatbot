@@ -53,6 +53,14 @@ I got confirmation email from oepn ai like this
 
 ![image](https://github.com/user-attachments/assets/a866e32d-6cda-4246-b39c-f700339488a7)
 
+## Clear Instructions
+- Install Dependencies: Use pip to install necessary Python packages.
+- Set API Keys: Store and configure your OpenAI API key.
+- Prepare Data: Upload training data to OpenAI and ensure ChromaDB is set up.
+- Run Fine-Tuning: Use provided code to start the fine-tuning job.
+- Implement RAG Function: Code your retrieval-augmented generation logic.
+- Evaluate Model: Execute the evaluation script to test model performance using metrics like relevance, correctness, faithfulness, and robustness.
+
 ## Demo
 https://youtu.be/Xx-mtNaRHeI
 
