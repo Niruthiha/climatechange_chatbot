@@ -7,6 +7,19 @@ The Climate Change Chatbot is an interactive tool designed to provide users with
 - Dynamic Responses: Utilizing the GPT-3.5-turbo model, the chatbot generates context-aware responses based on the queried information.
 - Easy to Use: Users can simply input their questions into a text field to receive informative answers.
 
+## Files overview
+1. app.py
+Purpose: This file typically serves as the main entry point for your application. It often handles the web server setup and routes for a web-based application.
+
+2. rag.py
+Purpose: This file defines the Retrieval-Augmented Generation (RAG) function used to generate answers based on the provided queries and retrieved documents.
+
+3. data_formatting.py
+Purpose: This file is responsible for preprocessing and formatting data before it is used for training or evaluation.
+
+4. evaluations.py
+Purpose: This file contains functions to evaluate the performance of your model based on various metrics
+
 ## Technologies Used
 - Required Python packages listed in requirements.txt
 
