@@ -43,13 +43,11 @@ This will install all necessary libraries, including:
 - pypdf: For reading PDF documents.
 
 ## Fine-Tuning the Model
-The script to fine-tune the model and evaluate its performance is fine_tune_model.py.
-
-Upload Training Data
-
-Ensure your training data is in the data/ directory. The data should be in JSONL format.
-
-Fine-Tune the Model
+1. The script to fine-tune the model and evaluate its performance is fine_tune_model.py.
+2. Upload Training Data
+3. Ensure your training data is in the data/ directory. The data should be in JSONL format.
+4. Fine-Tune the Model
+I got confirmation email from oepn ai like this
 
 ![image](https://github.com/user-attachments/assets/a866e32d-6cda-4246-b39c-f700339488a7)
 
