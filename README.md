@@ -82,5 +82,12 @@ https://youtu.be/Xx-mtNaRHeI
 ![image](https://github.com/user-attachments/assets/52ac59b1-50e8-4799-9760-1016955f4eca)
 ![image](https://github.com/user-attachments/assets/872c5dba-2681-4131-b8dd-ff8ea91463b7)
 
+## Out of scope, Nuanced queries & Hallucinatoins
+![Screenshot 2024-08-13 142146](https://github.com/user-attachments/assets/e72241cd-d4b9-4b59-8762-9f73fc70d692)
 
+![Screenshot 2024-08-13 142223](https://github.com/user-attachments/assets/769f984a-61a4-4ff3-a2b5-bbfe035f658a)
+
+![Screenshot 2024-08-13 142245](https://github.com/user-attachments/assets/db167c70-33a6-4c7c-88d5-99469b3625ae)
+
+![Screenshot 2024-08-13 142315](https://github.com/user-attachments/assets/f0652c19-f6da-4843-ac32-034f38d3dc0a)
 
