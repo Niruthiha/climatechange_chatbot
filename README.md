@@ -17,7 +17,7 @@ Purpose: This file defines the Retrieval-Augmented Generation (RAG) function use
 3. data_formatting.py
 Purpose: This file is responsible for preprocessing and formatting data before it is used for training or evaluation.
 
-4. evaluations.py
+4. finetuned_evaluation.py & chatbot_evaluation.py
 Purpose: This file contains functions to evaluate the performance of your model based on various metrics
 
 ## Technologies Used
