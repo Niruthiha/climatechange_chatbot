@@ -75,7 +75,7 @@ I got confirmation email from oepn ai like this
 - Evaluate Model: Execute the evaluation script to test model performance using metrics like relevance, correctness, faithfulness, and robustness.
 
 ## Demo
-https://youtu.be/Xx-mtNaRHeI
+[https://youtu.be/58qeEFf-TIc]
 
 ## Sample Responses
 ![image](https://github.com/user-attachments/assets/7ebbdfbb-0b84-4e06-8fe5-5795ee9a0ab2)
