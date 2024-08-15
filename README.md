@@ -8,10 +8,6 @@ The Climate Change Chatbot is an interactive tool designed to provide users with
 - Easy to Use: Users can simply input their questions into a text field to receive informative answers.
 
 ## Technologies Used
-- Streamlit: For building the web interface for user interactions.
-- OpenAI API: To generate responses using the GPT-3.5-turbo model.
-- ChromaDB: A vector database used for efficient information retrieval.
-- Python 3.8 or higher
 - Required Python packages listed in requirements.txt
 
 ## Data Source
@@ -19,6 +15,17 @@ The data used for the Climate Change Chatbot is derived from the IPCC AR6 WGII T
 
 ## Evaluating the Model
 The script evaluates the fine-tuned model based on several metrics. It uses ChromaDB for document retrieval and the SentenceTransformers library for embedding calculations. Ensure you have the correct path to your ChromaDB storage and adjust the model ID as necessary.
+Here’s a concise summary of the model metrics:
+
+Relevance: Measures how well the retrieved documents match the query using cosine similarity between query and document embeddings. Higher scores indicate better relevance.
+
+Correctness: Assesses the accuracy of the generated answer compared to a reference answer using BLEU and ROUGE scores. Higher scores reflect better alignment with the reference.
+
+Faithfulness: Evaluates how accurately the generated answer reflects the information from the retrieved documents, typically rated on a scale from 1 to 5. Ensures the answer is true to the context.
+
+Robustness: Tests the model's consistency by generating responses for various rephrasings of the same query and measuring similarity among those responses. Higher similarity indicates better robustness.
+
+These metrics help gauge how effectively your RAG model retrieves relevant information, generates accurate responses, adheres to context, and maintains performance across different inputs.
 
 ## Setup
 1. Clone the Repository
