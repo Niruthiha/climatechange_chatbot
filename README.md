@@ -31,8 +31,17 @@ The chatbot utilizes this comprehensive information to answer user queries effec
 2. Set Environment Variable: Make sure to set your OpenAI API key in your environment: export OPENAI_API_KEY="your_api_key_here"
 3. Running the Chatbot: To run the chatbot, execute the following command: streamlit run app.py
 
-## Try the app here 
-https://m9c2pz0j-8501.use.devtunnels.ms/
+## Create a Virtual Environment
+It’s recommended to use a virtual environment to manage project dependencies. 
+
+## Install Required Libraries
+Once the virtual environment is activated, install the required dependencies using the requirements.txt file. 
+This will install all necessary libraries, including:
+- openai: For accessing OpenAI's API.
+- langchain: For text splitting and management.
+- chromadb: For creating and querying the vector database.
+- pypdf: For reading PDF documents.
+
 
 ## Demo
 https://youtu.be/Xx-mtNaRHeI
