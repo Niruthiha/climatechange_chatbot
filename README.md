@@ -47,6 +47,7 @@ This will install all necessary libraries, including:
 2. Upload Training Data
 3. Ensure your training data is in the data/ directory. The data should be in JSONL format.
 4. Fine-Tune the Model
+   
 I got confirmation email from oepn ai like this
 
 ![image](https://github.com/user-attachments/assets/a866e32d-6cda-4246-b39c-f700339488a7)
